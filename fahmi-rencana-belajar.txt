@@ -11,5 +11,10 @@ Rencana belajar Program
 - Java
   *Bulan Januari 2021
   
+- Javascript
+  ^ Frmaework Javascript
+    * Angular
+    * React
+    
 - Pyton
   *Bulan Maret 2021
