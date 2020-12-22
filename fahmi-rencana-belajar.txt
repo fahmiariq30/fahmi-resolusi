@@ -1,8 +1,13 @@
 Rencana belajar Program
 
-- Framework Laravel
-  *Bulan Desember 2020
+- PHP Framework
+  ^ Framework CodeIgniter
+    * Bulan November 2020
+  ^ Framework Laravel
+    * Bulan Desember 2020
+    
 - Java
   *Bulan Januari 2021
+  
 - Pyton
   *Bulan Maret 2021
