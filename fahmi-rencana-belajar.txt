@@ -4,3 +4,5 @@ Rencana belajar Program
   *Bulan Desember 2020
 - Java
   *Bulan Januari 2021
+- Pyton
+  *Bulan Maret 2021
